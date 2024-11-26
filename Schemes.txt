@@ -1,0 +1,6 @@
+customer#id#int#first_name#str#last_name#str#email#str#address_id#int
+address#id#int#address#str#postal_code#int#phone#int
+film#id#int#title#str#description#str#release_year#int#length#int#rating#str
+actor#id#int#first_name#str#last_name#str
+film_actor#id#int#film_id#int
+estudiantes#id#int#nombre#str#
