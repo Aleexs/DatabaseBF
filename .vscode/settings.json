@@ -92,7 +92,7 @@
         "valarray": "cpp",
         "variant": "cpp"
     },
-    "files.associations": {
+    "files.associations":{
         "string": "cpp",
         "any": "cpp",
         "array": "cpp",
